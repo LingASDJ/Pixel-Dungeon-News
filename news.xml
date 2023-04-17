@@ -1,0 +1,21 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+<entry>
+<title type="html">SPDNET共享开发文档-测试</title>
+<link href="#" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>2023-1-10T12:50:00+00:00</published>
+<updated>2023-1-10T12:50:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
+<author>
+<name>SPDNET-DEV</name>
+</author>
+<category term="SHPD_ICON_v464: ITEM: 63"/>
+<category term="SHPD_ICON_v533: sprites/spinner.png, 144, 0, 16, 16"/>
+<summary type="html">
+你遇到了一些设计问题？
+你想来看SPDNET的后续计划？
+你想一起帮SPDNET共同成长？
+访问我们的合作腾讯文档，一起来共同维护SPDNET吧！
+</summary>
+</entry>
+</feed>
