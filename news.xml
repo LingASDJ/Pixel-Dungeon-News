@@ -1,21 +1,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+<!-- Entry为一个块 -->
 <entry>
-<title type="html">SPDNET共享开发文档-测试</title>
-<link href="#" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<!-- 修改Title值 -->
+<title type="html">地牢新闻标题</title>
+<!-- href后面接链接 其他不改-->
+<link href="www.baidu.com" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<!-- 修改日期时间 -->
 <published>2023-1-10T12:50:00+00:00</published>
 <updated>2023-1-10T12:50:00+00:00</updated>
+<!-- 请不改ID值 -->
 <id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
 <author>
+<!-- 作者名字 -->
 <name>SPDNET-DEV</name>
 </author>
+<!-- 获取图片，上面为在items.png获取，当然，你也可以直接获取sprites文件夹内的素材文件 -->
 <category term="SHPD_ICON_v464: ITEM: 63"/>
 <category term="SHPD_ICON_v533: sprites/spinner.png, 144, 0, 16, 16"/>
+<!-- 新闻卡片里面的内容 -->
 <summary type="html">
-你遇到了一些设计问题？
-你想来看SPDNET的后续计划？
-你想一起帮SPDNET共同成长？
-访问我们的合作腾讯文档，一起来共同维护SPDNET吧！
+地牢新闻内容，百度一下
 </summary>
 </entry>
+<!-- Entry结束块 -->
 </feed>
