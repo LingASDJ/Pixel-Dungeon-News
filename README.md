@@ -8,4 +8,5 @@ https://你的io地址/Pixel-Dungeon-News/news.xml
 ```
  
 例如：
-https://lingasdj.github.io/Pixel-Dungeon-News/news.xml
+
+<a href="https://lingasdj.github.io/Pixel-Dungeon-News/news.xml" target="_blank">https://lingasdj.github.io/Pixel-Dungeon-News/news.xml</a>
